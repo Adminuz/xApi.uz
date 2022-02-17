@@ -4,7 +4,7 @@ import Title from '../Title.svelte'
 </script>
 
 
-<Title name="✌🏻 Проекты ✌🏻" />
+<Title name="💼 Проекты" />
 <div class="proj">
 <ProjectItim name="Свои Люди" derct="Cтатистики сервера CS:GO" img='/static/csgo.jpg' />
 <ProjectItim name="Ислам в Твери" derct="Время молитв - (ДУМТвО)." img='/static/islam.png' />

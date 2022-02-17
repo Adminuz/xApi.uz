@@ -2,9 +2,11 @@
 import Head from "./Component/Head.svelte";
 import Project from './Component/Project/Index.svelte';
 import Skills from './Component/Skills/Index.svelte'
+import About from './Component/About/Index.svelte'
 </script>
 <Head/>
 <Skills/>
+<About/>
 <Project/>
 <main>
 	<br/>
